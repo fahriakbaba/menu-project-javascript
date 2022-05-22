@@ -1,2 +1,2 @@
 ﻿# menu-project-javascript
-## using .reduce(), .forEach(), .map() method
+* using .reduce(), .forEach(), .map() method
